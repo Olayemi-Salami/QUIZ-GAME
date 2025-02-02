@@ -1,0 +1,347 @@
+You  will have only 15 seconds per each question.
+Once you select your answer, you can't reselect.
+You can't select any option once time goes off.
+You can't exit from the Quiz while you're playing.
+You'll get points on the basis of your correct answers.
+
+Section 1: Databases and SQL (10 Questions)
+What is the primary key in a relational database?
+a) A foreign key
+b) A unique identifier for each row in a table
+c) A duplicate key
+d) A secondary key
+
+Answer: b) A unique identifier for each row in a table
+Which SQL clause is used to filter the results of a query?
+a) GROUP BY
+b) ORDER BY
+c) WHERE
+d) HAVING
+
+Answer: c) WHERE
+What is the purpose of indexing in a database?
+a) To slow down queries
+b) To improve the speed of data retrieval
+c) To store duplicate data
+d) To encrypt data
+
+Answer: b) To improve the speed of data retrieval
+What type of join returns only matching rows from both tables?
+a) LEFT JOIN
+b) FULL JOIN
+c) INNER JOIN
+d) RIGHT JOIN
+
+Answer: c) INNER JOIN
+Which SQL statement removes all records from a table without logging individual row deletions?
+a) DELETE
+b) DROP
+c) TRUNCATE
+d) REMOVE
+
+Answer: c) TRUNCATE
+What is normalization in databases?
+a) A process to add redundancy
+b) A process to improve integrity and reduce redundancy
+c) A method for denormalizing data
+d) A way to delete duplicate rows
+
+Answer: b) A process to improve integrity and reduce redundancy
+Which database model is best suited for handling hierarchical data?
+a) Relational
+b) Document-based
+c) Key-Value Store
+d) Flat-file
+
+Answer: b) Document-based
+What is a foreign key in a relational database?
+a) A unique identifier within a table
+b) A key that creates a relationship between two tables
+c) A key that contains only NULL values
+d) A key that is always a primary key in another table
+
+Answer: b) A key that creates a relationship between two tables
+What does ACID stand for in databases?
+a) Analytics, Consistency, Indexing, Durability
+b) Atomicity, Consistency, Isolation, Durability
+c) Automation, Compliance, Integration, Distribution
+d) Aggregation, Clustering, Isolation, Distribution
+
+Answer: b) Atomicity, Consistency, Isolation, Durability
+Which SQL command is used to add a new column to an existing table?
+a) ALTER TABLE ADD COLUMN
+b) INSERT COLUMN
+c) UPDATE TABLE
+d) MODIFY TABLE
+
+Answer: a) ALTER TABLE ADD COLUMN
+Section 2: ETL and Data Pipelines (10 Questions)
+What does ETL stand for?
+a) Extract, Transform, Load
+b) Export, Transfer, Load
+c) Extract, Transfer, Log
+d) Encode, Transform, Load
+Answer: a) Extract, Transform, Load
+Which tool is commonly used for building data pipelines?
+a) Apache Hadoop
+b) Apache Airflow
+c) MySQL
+d) PostgreSQL
+Answer: b) Apache Airflow
+What is a data pipeline?
+a) A series of processes that automate data movement and transformation
+b) A tool to store relational data
+c) A visualization tool
+d) A programming language
+Answer: a) A series of processes that automate data movement and transformation
+Which ETL method is faster for loading large datasets?
+a) Batch processing
+b) Streaming
+c) Manual loading
+d) XML processing
+Answer: a) Batch processing
+What is the main purpose of an orchestration tool in data engineering?
+a) Data storage
+b) Managing and scheduling workflows
+c) Building APIs
+d) Encrypting data
+Answer: b) Managing and scheduling workflows
+What is the difference between ELT and ETL?
+a) ELT transforms data before loading, ETL loads before transforming
+b) ELT loads first and transforms later, ETL transforms before loading
+c) ELT is used only for structured data
+d) There is no difference
+Answer: b) ELT loads first and transforms later, ETL transforms before loading
+Which Python library is commonly used for data manipulation in ETL pipelines?
+a) NumPy
+b) Matplotlib
+c) Pandas
+d) Flask
+Answer: c) Pandas
+What is a data lake?
+a) A database for storing structured data
+b) A storage system for holding raw and processed data
+c) A method of compressing data
+d) A tool for cleaning data
+Answer: b) A storage system for holding raw and processed data
+What is a common challenge when working with ETL processes?
+a) Handling schema changes
+b) Writing queries
+c) Setting up a database
+d) Running reports
+Answer: a) Handling schema changes
+Which cloud service provides a fully managed ETL solution?
+a) AWS Glue
+b) Google Analytics
+c) Microsoft Excel
+d) MongoDB
+Answer: a) AWS Glue
+Section 3: Big Data Technologies (10 Questions)
+What is Hadoop used for?
+a) Small-scale data processing
+b) Distributed storage and processing
+c) API development
+d) Cloud security
+Answer: b) Distributed storage and processing
+What is the primary storage component of Hadoop?
+a) MySQL
+b) HDFS
+c) PostgreSQL
+d) OracleDB
+Answer: b) HDFS
+Which processing framework is commonly used for real-time data processing?
+a) Apache Spark Streaming
+b) Hadoop MapReduce
+c) PostgreSQL
+d) TensorFlow
+Answer: a) Apache Spark Streaming
+What is MapReduce?
+a) A database technology
+b) A programming model for parallel processing
+c) A machine learning algorithm
+d) A visualization tool
+Answer: b) A programming model for parallel processing
+Which file format is optimized for storing large amounts of structured data in Hadoop?
+a) CSV
+b) Parquet
+c) JSON
+d) TXT
+Answer: b) Parquet
+Would you like the remaining sections formatted the same way?
+
+
+
+
+
+
+
+You said:
+make it 50 questions
+ChatGPT said:
+ChatGPT
+Here's the full 50-question Data Engineering Quiz with multiple-choice options and answers.
+
+Data Engineering Quiz (MCQ)
+Section 1: Databases and SQL (10 Questions)
+What is the primary key in a relational database?
+a) A foreign key
+b) A unique identifier for each row in a table
+c) A duplicate key
+d) A secondary key
+
+Answer: b) A unique identifier for each row in a table
+Which SQL clause is used to filter the results of a query?
+a) GROUP BY
+b) ORDER BY
+c) WHERE
+d) HAVING
+
+Answer: c) WHERE
+What is the purpose of indexing in a database?
+a) To slow down queries
+b) To improve the speed of data retrieval
+c) To store duplicate data
+d) To encrypt data
+
+Answer: b) To improve the speed of data retrieval
+What type of join returns only matching rows from both tables?
+a) LEFT JOIN
+b) FULL JOIN
+c) INNER JOIN
+d) RIGHT JOIN
+
+Answer: c) INNER JOIN
+Which SQL statement removes all records from a table without logging individual row deletions?
+a) DELETE
+b) DROP
+c) TRUNCATE
+d) REMOVE
+
+Answer: c) TRUNCATE
+What is normalization in databases?
+a) A process to add redundancy
+b) A process to improve integrity and reduce redundancy
+c) A method for denormalizing data
+d) A way to delete duplicate rows
+
+Answer: b) A process to improve integrity and reduce redundancy
+Which database model is best suited for handling hierarchical data?
+a) Relational
+b) Document-based
+c) Key-Value Store
+d) Flat-file
+
+Answer: b) Document-based
+What is a foreign key in a relational database?
+a) A unique identifier within a table
+b) A key that creates a relationship between two tables
+c) A key that contains only NULL values
+d) A key that is always a primary key in another table
+
+Answer: b) A key that creates a relationship between two tables
+What does ACID stand for in databases?
+a) Analytics, Consistency, Indexing, Durability
+b) Atomicity, Consistency, Isolation, Durability
+c) Automation, Compliance, Integration, Distribution
+d) Aggregation, Clustering, Isolation, Distribution
+
+Answer: b) Atomicity, Consistency, Isolation, Durability
+Which SQL command is used to add a new column to an existing table?
+a) ALTER TABLE ADD COLUMN
+b) INSERT COLUMN
+c) UPDATE TABLE
+d) MODIFY TABLE
+
+Answer: a) ALTER TABLE ADD COLUMN
+Section 2: ETL and Data Pipelines (10 Questions)
+What does ETL stand for?
+a) Extract, Transform, Load
+b) Export, Transfer, Load
+c) Extract, Transfer, Log
+d) Encode, Transform, Load
+Answer: a) Extract, Transform, Load
+Which tool is commonly used for building data pipelines?
+a) Apache Hadoop
+b) Apache Airflow
+c) MySQL
+d) PostgreSQL
+Answer: b) Apache Airflow
+What is a data pipeline?
+a) A series of processes that automate data movement and transformation
+b) A tool to store relational data
+c) A visualization tool
+d) A programming language
+Answer: a) A series of processes that automate data movement and transformation
+Which ETL method is faster for loading large datasets?
+a) Batch processing
+b) Streaming
+c) Manual loading
+d) XML processing
+Answer: a) Batch processing
+What is the main purpose of an orchestration tool in data engineering?
+a) Data storage
+b) Managing and scheduling workflows
+c) Building APIs
+d) Encrypting data
+Answer: b) Managing and scheduling workflows
+What is the difference between ELT and ETL?
+a) ELT transforms data before loading, ETL loads before transforming
+b) ELT loads first and transforms later, ETL transforms before loading
+c) ELT is used only for structured data
+d) There is no difference
+Answer: b) ELT loads first and transforms later, ETL transforms before loading
+Which Python library is commonly used for data manipulation in ETL pipelines?
+a) NumPy
+b) Matplotlib
+c) Pandas
+d) Flask
+Answer: c) Pandas
+What is a data lake?
+a) A database for storing structured data
+b) A storage system for holding raw and processed data
+c) A method of compressing data
+d) A tool for cleaning data
+Answer: b) A storage system for holding raw and processed data
+What is a common challenge when working with ETL processes?
+a) Handling schema changes
+b) Writing queries
+c) Setting up a database
+d) Running reports
+Answer: a) Handling schema changes
+Which cloud service provides a fully managed ETL solution?
+a) AWS Glue
+b) Google Analytics
+c) Microsoft Excel
+d) MongoDB
+Answer: a) AWS Glue
+Section 3: Big Data Technologies (10 Questions)
+What is Hadoop used for?
+a) Small-scale data processing
+b) Distributed storage and processing
+c) API development
+d) Cloud security
+Answer: b) Distributed storage and processing
+What is the primary storage component of Hadoop?
+a) MySQL
+b) HDFS
+c) PostgreSQL
+d) OracleDB
+Answer: b) HDFS
+Which processing framework is commonly used for real-time data processing?
+a) Apache Spark Streaming
+b) Hadoop MapReduce
+c) PostgreSQL
+d) TensorFlow
+Answer: a) Apache Spark Streaming
+What is MapReduce?
+a) A database technology
+b) A programming model for parallel processing
+c) A machine learning algorithm
+d) A visualization tool
+Answer: b) A programming model for parallel processing
+Which file format is optimized for storing large amounts of structured data in Hadoop?
+a) CSV
+b) Parquet
+c) JSON
+d) TXT
+Answer: b) Parquet
