@@ -169,73 +169,73 @@ let questions =[
     },
     {
         number: 15,
-        question: "Which ETL method is faster for loading large datasets?",
-        answer:"A unique identifier for each row in a table",
+        question: "Which ETL method is faster for loading large datasets?",     
+        answer:"Batch processing",
         options:[
-            "A unique identifier for each row in a table",
-            "A foreign key",
-            "A duplicate key",
-           "A secondary key"
+            "Batch processing",
+            "Streaming",
+            "Manual loading",
+           "XML processing"
         ]
     },
 
     {
         number: 16,
-        question: "Which SQL clause is used to filter the results of a query?",
-        answer:"WHERE",
+        question: "What is the main purpose of an orchestration tool in data engineering?",
+        answer:"Managing and scheduling workflows",
         options:[
-            "GROUP BY",
-            "ORDER BY",
-            "WHERE",
-           "HAVING"
+            "Data storage",
+            "Managing and scheduling workflows",
+            "Building APIs",
+           "Encrypting data"
         ]
     },
 
     {
         number: 17,
-        question: "What is the purpose of indexing in a database?",
-        answer:"To improve the speed of data retrieval",
+        question: "What is the difference between ELT and ETL?",
+        answer:"ELT loads first and transforms later, ETL transforms before loading",
         options:[
-            "To slow down queries",
-            "To improve the speed of data retrieval",
-            "To store duplicate data",
-           "To encrypt data"
+            "ELT transforms data before loading, ETL loads before transforming",
+            "ELT loads first and transforms later, ETL transforms before loading",
+            "ELT is used only for structured data",
+            "There is no difference"
         ]
     },
 
     {
         number: 18,
-        question: "What type of join returns only matching rows from both tables?",
-        answer:"INNER JOIN",
+        question: "Which Python library is commonly used for data manipulation in ETL pipelines?",
+        answer:"Pandas",
         options:[
-            "LEFT JOIN",
-            "FULL JOIN",
-            "INNER JOIN",
-           "RIGHT JOIN"
+            "NumPy",
+            "Matplotlib",
+            "Pandas",
+            "Flask" 
         ]
     },
 
     {
         number: 19,
-        question: "Which SQL statement removes all records from a table without logging individual row deletions?",
-        answer:"TRUNCATE",
+        question: "What is a data lake?",
+        answer:"A storage system for holding raw and processed data",
         options:[
-            "DELETE",
-            "DROP",
-            "TRUNCATE",
-           "REMOVE"
+            "A database for storing structured data",
+            "A storage system for holding raw and processed data",
+            "A method of compressing data",
+            "A tool for cleaning data"
         ]
     },
 
     {
         number: 20,
-        question: "What is normalization in databases?",
-        answer:"A unique identifier for each row in a table",
+        question: "What is a common challenge when working with ETL processes?",
+        answer:" Handling schema changes",
         options:[
-            "A unique identifier for each row in a table",
-            "A foreign key",
-            "A duplicate key",
-           "A secondary key"
+            " Handling schema changes",
+            "Writing queries",
+            "Setting up a database",
+           "Running reports"
         ]
     },
 
@@ -253,25 +253,25 @@ let questions =[
 
     {
         number: 22,
-        question: "Which database model is best suited for handling hierarchical data?",
-        answer:"Document-based",
+        question: " Which cloud service provides a fully managed ETL solution?",
+        answer:"AWS Glue",
         options:[
-            "Relational",
-            "Document-based",
-            "Key-Value Store",
-           "Flat-file"
+            "AWS Glue",
+            "Google Analytics",
+            "Microsoft Excel",
+           "MongoDB"
         ]
     },
 
     {
         number: 23,
-        question: "What is a foreign key in a relational database?",
-        answer:"A unique identifier for each row in a table",
+        question: "What is the primary storage component of Hadoo?",
+        answer:"HDFS",
         options:[
-            "A unique identifier within a table",
-            "A key that creates a relationship between two tables",
-            "A key that contains only NULL values",
-            "A key that is always a primary key in another table"
+                "MySQL",
+                "HDFS",
+                "PostgreSQL",        
+                "OracleDB"
         ]
     },
 
