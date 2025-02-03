@@ -8,6 +8,23 @@
 
 body{
     background-image:url(/image/320750726_11236345.jpg);
+    width: 750px;
+   overflow:scroll;
+    overflow-x:hidden;
+    /* -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+margin: 0;
+padding: 0;
+color: #9698a6;
+}
+
+* {
+-webkit-box-sizing: border-box;
+    box-sizing: border-box;
+margin: 0;
+padding: 0;
+} */
+
     /* background-repeat: no-repeat;
     background-position:right;
     background-size: cover; */
